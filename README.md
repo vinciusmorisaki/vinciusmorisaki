@@ -8,3 +8,4 @@
 -<div style "display: inline_block"><br/>
 - <img alt= src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"
 - <img alt= src="https://https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"
+</div>

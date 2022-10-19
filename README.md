@@ -13,3 +13,4 @@
 <img align="center" alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </div><br/>
+como ja disse meu nome é vinicius morisaki, atualmente faço musculação, jogo tenis de mesa e estou cursando o ensino médio 

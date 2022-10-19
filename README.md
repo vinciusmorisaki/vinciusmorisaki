@@ -1,6 +1,6 @@
 ### olá! eu sou o vinicius morisaki !
 
-
+# redes sociais
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viniciusmorisaki/) 
 
 ![vinciusmorisaki GitHub stats](https://github-readme-stats.vercel.app/api?username=vinciusmorisaki&show_icons=true&theme=dracula)
@@ -13,6 +13,6 @@
 <img align="center" alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </div><br/>
-</div><br/>
-  me chamo vinicius morisaki, tenho 15 anos, nascido e  criado em Goioerê-Pr, atualmente estou cursando o ensino medio no colegio duque  de caxias . pratico musculação e tenis de mesa  atualmente.
+me chamo vinicius morisaki, tenho 15 anos,filho de leticia morisaki e Ronaldo aparecido teixeira nascido e  criado em Goioerê-Pr, atualmente estou cursando o ensino medio no colegio duque  de caxias . pratico musculação e tenis de mesa  atualmente.
 meus passatempos preferidos são: passar o tempo nas redes sociais, jogar video game, ler livros, sim por incrivel que pareca eu leio! hahaha, gosto muitos de uma boa resenha com meus amigos, sempre é bom nos divertir dar risadas e estar com as pessoas que gostamos
+bom é isso, um pouco do que eu faço no meu dia dia e um pouco da minha biografia. Tchau até mais!

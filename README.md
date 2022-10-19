@@ -15,3 +15,4 @@
 </div><br/>
 </div><br/>
   me chamo vinicius morisaki, tenho 15 anos, nascido e  criado em Goioerê-Pr, atualmente estou cursando o ensino medio no colegio duque  de caxias . pratico musculação e tenis de mesa  atualmente.
+meus passatempos preferidos são: passar o tempo nas redes sociais, jogar video game, ler livros, sim por incrivel que pareca eu leio! hahaha, gosto muitos de uma boa resenha com meus amigos, sempre é bom nos divertir dar risadas e estar com as pessoas que gostamos
